@@ -31,6 +31,7 @@
     "next": "latest",
     "next-mdx-remote": "^4.1.0",
     "next-remote-watch": "1.0.0",
+    "nextjs-blog-theme": "file:",
     "prismjs": "^1.25.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
